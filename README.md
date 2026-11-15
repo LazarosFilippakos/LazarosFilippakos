@@ -24,4 +24,4 @@ TypeScript · React · Next.js · Node.js · PostgreSQL · Python · C · C# · 
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/lazaros-filippakos-1188061ab/) · [Email](mailto:filippakoslazaros@gmail.com)
+[Website](https://lazarosfilippakos.github.io) · [LinkedIn](https://www.linkedin.com/in/lazaros-filippakos-1188061ab/) · [Email](mailto:filippakoslazaros@gmail.com)
